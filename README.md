@@ -95,3 +95,7 @@ To become a highly skilled QA Automation Engineer specialising in:
 - ServiceNow Testing
 - CI/CD Integration
 - Enterprise Quality Engineering
+
+  Let's connect
+  - LinkedIn: www.linkedin.com/in/emmanuel-agbiye
+  - Email: emmanuelagbiyerpn@gmail.com
