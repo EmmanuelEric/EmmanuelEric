@@ -1,6 +1,6 @@
 Hi, I'm Emmanuel Eric Agbiye
 
-QA Automation Engineer | ServiceNow | API Testing
+QA Automation Engineer | API Testing
 
 I'm a QA Automation Engineer passionate about building reliable, scalable, and maintainable test automation frameworks.
 
@@ -34,15 +34,6 @@ CI/CD & Version Control
 - Jenkins
 - GitHub Actions
 
-ServiceNow
-
-- ServiceNow Administration
-- ServiceNow Development
-- Automated Test Framework (ATF)
-- Flow Designer
-- Business Rules
-- Script Includes
-
 Databases
 
 - MySQL
@@ -53,7 +44,6 @@ Tools
 - IntelliJ IDEA
 - Visual Studio Code
 - Jira
-- Confluence
 
 Featured Projects
 
@@ -66,22 +56,12 @@ API automation framework supporting authentication, request validation, response
 🔹 Playwright Automation Framework
 Modern UI automation framework demonstrating fast and reliable browser testing.
 
-🔹 ServiceNow Automation
-ServiceNow testing project covering:
-
-- Business Rules
-- Flow Designer
-- REST APIs
-- ATF
-- End-to-end workflow testing
-
 🔹 Postman Collections
 API testing collections with environments, assertions, and Newman execution.
 
 Currently Learning
 
 - Advanced Playwright
-- ServiceNow Development
 - CI/CD for QA
 - Performance Testing (JMeter)
 - Cloud Testing
@@ -92,7 +72,6 @@ To become a highly skilled QA Automation Engineer specialising in:
 
 - Test Automation
 - API Automation
-- ServiceNow Testing
 - CI/CD Integration
 - Enterprise Quality Engineering
 
