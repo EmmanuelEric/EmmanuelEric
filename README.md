@@ -1,12 +1,14 @@
 Hi, I'm Emmanuel Eric Agbiye
 
-QA Automation Engineer | API Testing
+QA Automation Engineer | API Testing | Software Engineer
 
-I'm a QA Automation Engineer passionate about building reliable, scalable, and maintainable test automation frameworks.
+I'm a QA Automation Engineer focused on building reliable, scalable, and maintainable test automation systems.
 
-I enjoy solving quality engineering challenges through automation, API testing, CI/CD integration, and modern testing practices. I'm currently expanding my expertise in ServiceNow development and testing while building enterprise-level automation projects.
+My engineering journey is centered around software development, test automation, API testing, CI/CD, and quality engineering. I'm currently strengthening my software engineering foundation while progressing through my skills Roadmap.
 
-Tech Stack
+My long-term goal is to progress from QA Automation → Automation Engineering → AI Automation → AI Agent Engineering, building production-grade automation and intelligent systems along the way.
+
+--Tech Stack--
 
 Programming
 
@@ -26,6 +28,7 @@ API Testing
 
 - Postman
 - Swagger / OpenAPI
+- REST API'S
 
 CI/CD & Version Control
 
@@ -48,32 +51,47 @@ Tools
 Featured Projects
 
 🔹 Selenium Automation Framework
-Enterprise-ready Selenium framework built using Java, TestNG, Maven, Page Object Model, and reporting.
+Enterprise-ready Selenium framework built with:
+Java, Selenium WebDriver, TestNG, Maven, Page Object Model, Reuseable automation components and Test reporting.
 
 🔹 REST Assured API Framework
-API automation framework supporting authentication, request validation, response validation, and reusable utilities.
+API automation framework demonstrating:
+REST API testing, Authentication, Request validation, Response validation, Schema validation, Reusable utilities, Automated test execution.
 
 🔹 Playwright Automation Framework
-Modern UI automation framework demonstrating fast and reliable browser testing.
+Modern browser automation framework demonstrating:
+Playwright, Cross-browser testing, Page object model, Test fixtures, Assertions, Parallel execution, CI integration.
 
 🔹 Postman Collections
-API testing collections with environments, assertions, and Newman execution.
+API testing collections demonstrating:
+Request configuration, Environments, Authentication, Assertions, Response validation, Newman execution.
 
-Currently Learning
+Currently Strengthening:
+-Java Fundamentals
+-Object-Oriented Programming
+-Test Automation
+-API Testing
+-Selenium
+-REST Assured
+-Postman
+-Jerkins
+-Playwright
 
-- Advanced Playwright
-- CI/CD for QA
-- Performance Testing (JMeter)
-- Cloud Testing
+Career Direction
 
-Career Goal
+My skills roadmap is designed to progressively develop expertise in: 
 
-To become a highly skilled QA Automation Engineer specialising in:
+Software Engineering
+→ QA Automation
+→ Automation Engineering
+→ AI Automation
+→ AI Agent Engineering
 
-- Test Automation
-- API Automation
-- CI/CD Integration
-- Enterprise Quality Engineering
+My long-term focus is building reliable, testable, scalable, and intelligent software systems.
+
+Engineering Philosophy
+Learn → Build → Test → Commit → Deploy → Improve
+I believe the best way to learn engineering is by building real projects, testing them thoroughly, understanding why they work, and continuously improving them.
 
   Let's connect
   - LinkedIn: www.linkedin.com/in/emmanuel-agbiye
