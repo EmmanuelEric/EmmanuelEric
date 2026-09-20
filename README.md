@@ -21,6 +21,7 @@ Test Automation
 - Selenium WebDriver
 - Playwright
 - REST Assured
+- JUnit 5
 - TestNG
 - Maven
 
